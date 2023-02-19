@@ -32,7 +32,6 @@ Copyright (c) `year` `name` (the "First Party")
 
 Licensed to any Eligible Party.
 
-
 ### 2️⃣ Section II: Licensing
 
 Permission is hereby granted, free of charge, to any Eligible Party obtaining a substantial portion
