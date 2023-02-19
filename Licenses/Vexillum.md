@@ -23,7 +23,6 @@ The Third Party is any party that is **not** the First Party - see the **📖 Ox
 
 An Eligible Party is a party that has been accepted by the First Party. By default manner, the First Party automatically accepts any party that wishes to use the software with no medium of communication other than this license required. The First Party may restrict this license for a Third Party, under any period of time, per their discretion.
 
-
 ---
 
 ### 1️⃣ Section I: Parties
@@ -34,8 +33,6 @@ Licensed to any Eligible Party.
 
 
 ### 2️⃣ Section II: Licensing
-
-
 
 Permission is hereby granted, free of charge, to any Eligible Party obtaining a substantial portion
 of this Software, to deal in the Software without restriction, including without limitation the rights
